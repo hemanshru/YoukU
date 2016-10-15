@@ -1,0 +1,11 @@
+1: home page will be provided to start testing  by calling our methods in yoku application.
+
+2: do we need to call payment gateway while adding money to wallet or 
+we are supposed to call any other existing
+ function which will handle everything and we will be getting response code which
+will be used by us to decide wallet amount should be modified or not 
+
+3: need details about payment gateway, a document if any.
+   so that we will be able to handle response valid or not
+
+
