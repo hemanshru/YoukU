@@ -1,2 +1,0 @@
-# YoukU
-WalletApp
